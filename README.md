@@ -1,4 +1,4 @@
-Hi there, I'm Ujjawal 👋
+\textbf{Hi there, I'm Ujjawal 👋}
 
 
 ## 🌐 Socials:
