@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hi there, I'm Priyansh 👋
+Hi there, I'm Ujjawal 👋
 
 
 ## 🌐 Socials:
