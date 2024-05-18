@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 A sophomore pursuing B-tech in CS.<br>Python, HTML, CSS, <br>Javascript, ReactJs intermediate.
+Hi there, I'm Priyansh 👋
 
 
 ## 🌐 Socials:
